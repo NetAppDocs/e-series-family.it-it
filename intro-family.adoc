@@ -1,0 +1,115 @@
+---
+permalink: intro-family.html 
+keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager, unified manager 
+summary: La famiglia di prodotti NetApp e-Series offre servizi di gestione dei dati applicativi e di storage per applicazioni a elevata larghezza di banda che richiedono uno storage a blocchi semplice, facile da gestire e veloce con affidabilità di livello Enterprise. 
+---
+= Introduzione alla famiglia di sistemi storage e-Series
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+La famiglia di storage NetApp e-Series offre backup e recovery flessibili e convenienti nel cloud ed è progettata per applicazioni dedicate a elevata larghezza di banda che richiedono uno storage a blocchi semplice, facile da gestire e veloce con affidabilità di livello Enterprise.
+
+
+
+== Piattaforme e-Series
+
+I sistemi storage e-Series utilizzano tool di gestione dei dati basati sulle applicazioni in grado di gestire diversi tipi di dischi in un fattore di forma 2U o 4U. È possibile collegare il sistema storage a UNA SAN da diversi tipi di interfaccia e a diversi sistemi operativi host.
+
+I sistemi storage e-Series includono i seguenti modelli di piattaforma.
+
+
+
+=== EF600 ed EF300
+
+Progettato appositamente per i carichi di lavoro che richiedono i massimi livelli di performance, come analisi dei big data e database.
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef600-models["Scopri di più sul modello EF600"].
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef300-models["Scopri di più sul modello EF300"].
+
+https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["Leggi la scheda informativa di EF-Series"^].
+
+
+
+=== E5700
+
+Progettato per applicazioni con elevate performance e larghezza di banda ad uso intensivo di dati con affidabilità di livello Enterprise.
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e5700-models["Scopri di più sul modello E5700"].
+
+https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["Leggi la scheda informativa di E5700"^].
+
+
+
+=== E2800
+
+Ottimizzato per piccole imprese e uffici remoti che richiedono affidabilità e performance con carichi di lavoro misti per le applicazioni dedicate.
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e2800-models["Scopri di più sul modello E2800"].
+
+https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["Leggi la scheda informativa di E2800"^].
+
+
+
+== Software SANtricity
+
+Il software SANtricity fornisce le interfacce basate sul Web di Gestione di sistema e di Gestione unificata utilizzate per la visualizzazione, il provisioning e la gestione dei sistemi di storage nella rete.
+
+https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf["Leggi la scheda informativa sul software SANtricity"^].
+
+
+
+=== Gestore di sistema di SANtricity
+
+System Manager è un software di gestione basato su web integrato in ciascun controller. Per accedere all'interfaccia utente, puntare un browser verso l'indirizzo IP del controller. L'installazione guidata consente di iniziare a configurare il sistema.
+
+* Procedure guidate intuitive per il workflow e sensibili al contesto consentono di ottimizzare le attività di configurazione.
+* Il software suggerisce i candidati alla configurazione che sfruttano le funzionalità hardware come la protezione dalle perdite dei cassetti su enclosure ad alta densità e la gestione intelligente della durata e delle prestazioni degli SSD.
+* Il sofisticato monitoraggio delle performance consente di visualizzare le informazioni a livello di sistema su singoli dischi o di esportare i dati delle performance per ulteriori analisi.
+* Le attività di tuning, come la gestione della cache SSD o della cache dati, sono tutte online. Quando si rende necessaria una riparazione, il guru del ripristino di SANtricity fornisce istruzioni dettagliate.
+
+
+Accedere alla https://docs.netapp.com/us-en/e-series-santricity/system-manager/index.html["Sito doc di Gestore di sistema SANtricity"], dove è possibile trovare informazioni su come pianificare, configurare, gestire e risolvere i problemi del proprio array di storage.
+
+
+
+=== Gestore unificato SANtricity
+
+Unified Manager è un software basato sul web utilizzato per gestire l'intero dominio. Da una vista centrale, è possibile visualizzare lo stato di tutti gli array e-Series ed EF-Series più recenti, come E2800, EF280, EF300, E5700, EF570, E EF600. È inoltre possibile eseguire operazioni batch su array di storage selezionati.
+
+* Da una singola finestra, è possibile visualizzare lo stato, organizzare gli array in gruppi, aggiornare il sistema operativo SANtricity per più array e avviare il Gestore di sistema SANtricity on-box per ciascun array.
+* È possibile configurare rapidamente avvisi e altre impostazioni su più array con una singola operazione.
+* SANtricity è installato su un server di gestione Linux o Windows e viene eseguito in un browser.
+
+
+Accedere alla https://docs.netapp.com/us-en/e-series-santricity/unified-manager/index.html["Sito doc di Unified Manager SANtricity"], dove è possibile apprendere come eseguire comandi di gestione dello storage su più array di storage di rete.
+
+
+
+=== Proxy dei servizi web SANtricity
+
+Web Services Proxy è un server API RESTful completo per esigenze di orchestrazione e automazione in grado di gestire centinaia di array e-Series nuovi e legacy. Il proxy viene installato separatamente su un server Windows o Linux. I servizi Web includono la documentazione API che consente di interagire direttamente con L'API REST.
+
+Accedere a. https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html["Documenti Web Services Proxy"].
+
+
+
+== CLI
+
+L'interfaccia a riga di comando (CLI) è un'applicazione software che consente di configurare e monitorare gli array di storage.
+
+Utilizzando la CLI, è possibile eseguire i comandi da un prompt del sistema operativo, ad esempio il prompt di DOS C:, un percorso del sistema operativo Linux o un percorso del sistema operativo Solaris.
+
+Accedere alla https://docs.netapp.com/us-en/e-series-cli/index.html["Sito SANtricity CLI doc"], Dove è possibile apprendere come configurare e monitorare gli array di storage utilizzando i comandi CLI.
+
+
+
+== Per ulteriori informazioni
+
+* https://docs.netapp.com/us-en/e-series/index.html["Documentazione del sistema e-Series"^]
+* https://docs.netapp.com/us-en/e-series-santricity/index.html["Documentazione del software SANtricity"^]
+* https://docs.netapp.com/us-en/e-series-cli/index.html["Documentazione dell'interfaccia utente di SANtricity"^]
+

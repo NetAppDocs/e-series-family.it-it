@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">Le note legali forniscono l'accesso a dichiarazioni di copyright, marchi, brevetti e altro ancora.</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Note legali</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Copyright</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marchi</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, il logo NETAPP e i marchi elencati nella pagina dei marchi NetApp sono marchi di NetApp, Inc. Altri nomi di società e prodotti potrebbero essere marchi dei rispettivi proprietari.</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Brevetti</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Un elenco aggiornato dei brevetti di proprietà di NetApp è disponibile all'indirizzo:</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Direttiva sulla privacy</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Open source</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">I file di avviso forniscono informazioni sul copyright e sulle licenze di terze parti utilizzate nel software NetApp.</block>
+  <block id="cc1ba14f8dc9bd7ba20e2aa654cde10b" category="inline-link">Avviso per i sistemi operativi SANtricity e-Series/EF-Series</block>
+  <block id="2dae7f81af3097152530b0bc519d7eb1" category="paragraph"><block ref="2dae7f81af3097152530b0bc519d7eb1" category="inline-link-rx"></block></block>
+  <block id="382db393e370bfa3a27169d580a3161c" category="summary">La famiglia di prodotti NetApp e-Series offre servizi di gestione dei dati applicativi e di storage per applicazioni a elevata larghezza di banda che richiedono uno storage a blocchi semplice, facile da gestire e veloce con affidabilità di livello Enterprise.</block>
+  <block id="dc1480e3f0580dddb0eb15f3b1bd5d52" category="doc">Introduzione alla famiglia di sistemi storage e-Series</block>
+  <block id="60adc38a80ac6ff80c4e7414ed3a9242" category="paragraph">La famiglia di storage NetApp e-Series offre backup e recovery flessibili e convenienti nel cloud ed è progettata per applicazioni dedicate a elevata larghezza di banda che richiedono uno storage a blocchi semplice, facile da gestire e veloce con affidabilità di livello Enterprise.</block>
+  <block id="7198a11b2d2b782e219fa68720bb5d6c" category="section-title">Piattaforme e-Series</block>
+  <block id="f13bfd89800bb7dd61e5dae9b1a91f8a" category="paragraph">I sistemi storage e-Series utilizzano tool di gestione dei dati basati sulle applicazioni in grado di gestire diversi tipi di dischi in un fattore di forma 2U o 4U. È possibile collegare il sistema storage a UNA SAN da diversi tipi di interfaccia e a diversi sistemi operativi host.</block>
+  <block id="474ecc1d12d7c4faf62dd1c969e4f160" category="paragraph">I sistemi storage e-Series includono i seguenti modelli di piattaforma.</block>
+  <block id="142d49f5d8166cda23176c9355cb6387" category="section-title">EF600 ed EF300</block>
+  <block id="d4dfeb323e446c2b90b20dc9b54c4405" category="paragraph">Progettato appositamente per i carichi di lavoro che richiedono i massimi livelli di performance, come analisi dei big data e database.</block>
+  <block id="a62b5237545be2712622dfe2693d9cf8" category="inline-link">Scopri di più sul modello EF600</block>
+  <block id="0badf69e773475d5df1d1a6da344897b" category="paragraph"><block ref="430ed1f97315b5e19046567f95bc4063" category="inline-link-rx"></block>.</block>
+  <block id="fd47aa192ad4e509e947b72c7a0da6ad" category="inline-link">Scopri di più sul modello EF300</block>
+  <block id="a8a4774685beafe1884ea3a583f9f72b" category="paragraph"><block ref="e744468941a9156827056370f1855636" category="inline-link-rx"></block>.</block>
+  <block id="79f8f1fbe8dcba48c51b15f621e49c92" category="inline-link">Leggi la scheda informativa di EF-Series</block>
+  <block id="1332a08a067b95d420f0d24ab5e89e06" category="paragraph"><block ref="446fc659dbe52df02322454be4d2a16c" category="inline-link-rx"></block>.</block>
+  <block id="176e516e8cae45764073b4a9b3674666" category="section-title">E5700</block>
+  <block id="2776610d741332584403d7c72fe2e643" category="paragraph">Progettato per applicazioni con elevate performance e larghezza di banda ad uso intensivo di dati con affidabilità di livello Enterprise.</block>
+  <block id="fa3badeb587d8130e4e6828adf5e3ff7" category="inline-link">Scopri di più sul modello E5700</block>
+  <block id="24e314acaed1befaf882f567d75209aa" category="paragraph"><block ref="5cd9f5c03b3c2d6846f64a7c04036d45" category="inline-link-rx"></block>.</block>
+  <block id="e8b9daf8d8b00f9b9b2515d42827f16a" category="inline-link">Leggi la scheda informativa di E5700</block>
+  <block id="7db60f58ccdd2a63d8b656bf8b24c250" category="paragraph"><block ref="1923aee696a50b6ab348b91b901a3f8d" category="inline-link-rx"></block>.</block>
+  <block id="36ea2743576b4967eefec734fdf225a7" category="section-title">E2800</block>
+  <block id="f2c73fc6464033fbbc41882f301e648a" category="paragraph">Ottimizzato per piccole imprese e uffici remoti che richiedono affidabilità e performance con carichi di lavoro misti per le applicazioni dedicate.</block>
+  <block id="52b8542f1c38dc282f15733db9ef2648" category="inline-link">Scopri di più sul modello E2800</block>
+  <block id="d2d722049178be8cd1890b932c825ed5" category="paragraph"><block ref="3e0982541f18ddacaca57ec40835ab89" category="inline-link-rx"></block>.</block>
+  <block id="6f17c1b5648204e27c5232cfad266c55" category="inline-link">Leggi la scheda informativa di E2800</block>
+  <block id="ce92eed923458edfab9b8e6e3f4513e4" category="paragraph"><block ref="9d9c54284537f20340634e10295f9b82" category="inline-link-rx"></block>.</block>
+  <block id="eecdfe99dab1ba77ed2b7b1d9b86256b" category="section-title">Software SANtricity</block>
+  <block id="d73451354372f6ba711b69ac3d99036f" category="paragraph">Il software SANtricity fornisce le interfacce basate sul Web di Gestione di sistema e di Gestione unificata utilizzate per la visualizzazione, il provisioning e la gestione dei sistemi di storage nella rete.</block>
+  <block id="c85501584627f2cc9e6b757a852d4e63" category="inline-link">Leggi la scheda informativa sul software SANtricity</block>
+  <block id="c91ec79ba7eb6afe3bee8d05dd5b4c6b" category="paragraph"><block ref="e9ac56e88b1e1b1148ff7abd9fb1f524" category="inline-link-rx"></block>.</block>
+  <block id="0472921e1ddce2239a2bd92ea276d1c2" category="section-title">Gestore di sistema di SANtricity</block>
+  <block id="155ba2a638583b348ccb0b7fc7108688" category="paragraph">System Manager è un software di gestione basato su web integrato in ciascun controller. Per accedere all'interfaccia utente, puntare un browser verso l'indirizzo IP del controller. L'installazione guidata consente di iniziare a configurare il sistema.</block>
+  <block id="6f61b0c447b71c45c147e05cbfc87178" category="list-text">Procedure guidate intuitive per il workflow e sensibili al contesto consentono di ottimizzare le attività di configurazione.</block>
+  <block id="d58a6774dd36696628592a8eff022a15" category="list-text">Il software suggerisce i candidati alla configurazione che sfruttano le funzionalità hardware come la protezione dalle perdite dei cassetti su enclosure ad alta densità e la gestione intelligente della durata e delle prestazioni degli SSD.</block>
+  <block id="1b306f277e433d9c7e0233e720d52d99" category="list-text">Il sofisticato monitoraggio delle performance consente di visualizzare le informazioni a livello di sistema su singoli dischi o di esportare i dati delle performance per ulteriori analisi.</block>
+  <block id="71f014c2f7e738ecc931a0a516a33238" category="list-text">Le attività di tuning, come la gestione della cache SSD o della cache dati, sono tutte online. Quando si rende necessaria una riparazione, il guru del ripristino di SANtricity fornisce istruzioni dettagliate.</block>
+  <block id="6bd2c03bfc3d63944f2817a37088263b" category="inline-link">Sito doc di Gestore di sistema SANtricity</block>
+  <block id="5afd900f0f71dd604d4874e9a5ea949c" category="paragraph">Accedere alla<block ref="d3e10be75726740b542aeca9462b931c" category="inline-link-rx"></block>, dove è possibile trovare informazioni su come pianificare, configurare, gestire e risolvere i problemi del proprio array di storage.</block>
+  <block id="93abfbfe31ac8cb67502c94e622ee8a8" category="section-title">Gestore unificato SANtricity</block>
+  <block id="1a3e4ccf2425125b19b4d5b3b8b17da4" category="paragraph">Unified Manager è un software basato sul web utilizzato per gestire l'intero dominio. Da una vista centrale, è possibile visualizzare lo stato di tutti gli array e-Series ed EF-Series più recenti, come E2800, EF280, EF300, E5700, EF570, E EF600. È inoltre possibile eseguire operazioni batch su array di storage selezionati.</block>
+  <block id="f18f8f90cfe3810c5e7f5c085e94d1a7" category="list-text">Da una singola finestra, è possibile visualizzare lo stato, organizzare gli array in gruppi, aggiornare il sistema operativo SANtricity per più array e avviare il Gestore di sistema SANtricity on-box per ciascun array.</block>
+  <block id="e65516a5e95531b050dd3751b19ef2f9" category="list-text">È possibile configurare rapidamente avvisi e altre impostazioni su più array con una singola operazione.</block>
+  <block id="5bb111ca60863cc17cf83064aea26a19" category="list-text">SANtricity è installato su un server di gestione Linux o Windows e viene eseguito in un browser.</block>
+  <block id="3673719ad0b24cfc30109f551173e76e" category="inline-link">Sito doc di Unified Manager SANtricity</block>
+  <block id="a26e5cf035de8141c2fb3927d8b2d507" category="paragraph">Accedere alla<block ref="b07fdda9632566425eb1def704327131" category="inline-link-rx"></block>, dove è possibile apprendere come eseguire comandi di gestione dello storage su più array di storage di rete.</block>
+  <block id="ecec8539b1f11214ad374681d68d19e9" category="section-title">Proxy dei servizi web SANtricity</block>
+  <block id="daeeebb8e9e597b9227ca801571d0a1d" category="paragraph">Web Services Proxy è un server API RESTful completo per esigenze di orchestrazione e automazione in grado di gestire centinaia di array e-Series nuovi e legacy. Il proxy viene installato separatamente su un server Windows o Linux. I servizi Web includono la documentazione API che consente di interagire direttamente con L'API REST.</block>
+  <block id="a06cfdf8837b8871b5ecb26355f8ab4c" category="inline-link">Documenti Web Services Proxy</block>
+  <block id="ffac070967eb40fdceb147fa5be92747" category="paragraph">Accedere a.<block ref="3543222ed8371c51755d66d67eb39e6e" category="inline-link-rx"></block>.</block>
+  <block id="91af5705f16502125e8b2187e64202c0" category="section-title">CLI</block>
+  <block id="d5a07a929adbc3f8e1dccfa24e88da4b" category="paragraph">L'interfaccia a riga di comando (CLI) è un'applicazione software che consente di configurare e monitorare gli array di storage.</block>
+  <block id="f4607823508251fea132b5896ba4f3ac" category="paragraph">Utilizzando la CLI, è possibile eseguire i comandi da un prompt del sistema operativo, ad esempio il prompt di DOS C:, un percorso del sistema operativo Linux o un percorso del sistema operativo Solaris.</block>
+  <block id="95a096ebb928185f9e6ab6436acd0f72" category="inline-link">Sito SANtricity CLI doc</block>
+  <block id="218f987c65a84423095d258027200ebd" category="paragraph">Accedere alla<block ref="3ada143f2e378ec106c3939a26190114" category="inline-link-rx"></block>, Dove è possibile apprendere come configurare e monitorare gli array di storage utilizzando i comandi CLI.</block>
+  <block id="d13de4a83d7b44c2e65495def8ef1c7b" category="section-title">Per ulteriori informazioni</block>
+  <block id="830ee94872b7a18739baf66c6ccbb536" category="inline-link">Documentazione del sistema e-Series</block>
+  <block id="62e3a3373b07a4ed70aa50f0850dadb1" category="list-text"><block ref="62e3a3373b07a4ed70aa50f0850dadb1" category="inline-link-rx"></block></block>
+  <block id="fb38142cf581707ecd8e0a64768f30e2" category="inline-link">Documentazione del software SANtricity</block>
+  <block id="e050e4490e5eaec5fd5e4bf4116c7362" category="list-text"><block ref="e050e4490e5eaec5fd5e4bf4116c7362" category="inline-link-rx"></block></block>
+  <block id="eba4a8577f6ea49ab0d9329cade5c5db" category="inline-link">Documentazione dell'interfaccia utente di SANtricity</block>
+  <block id="08b37af774e1d6729f763c26e7c1384a" category="list-text"><block ref="08b37af774e1d6729f763c26e7c1384a" category="inline-link-rx"></block></block>
+  <block id="5f93f381aa8df330451fa5b834f54def" category="doc">Documentazione di e-Series</block>
+  <block id="294d136d5efcf1648eafe92db6c5cf9e" category="sidebar">Documentazione sulla famiglia di prodotti e-Series</block>
+  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">Tutti i documenti</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Inizia subito</block>
+  <block id="dc21b082b0947a93d387b8c7e8f89ee5" category="sidebar">Storage dei dati</block>
+  <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">Gestione dello storage</block>
+  <block id="2a9dbfa4b74c53d7304fc8b79a1874d3" category="sidebar">Soluzioni</block>
+  <block id="e4136d596bf67f3afb7cfd2326f4b522" category="sidebar">Scopri di più su e-Series</block>
+  <block id="447139bc81b52e1a424305db2e2a4444" category="sidebar">Scopri la famiglia di sistemi storage e-Series.</block>
+  <block id="69f6cbec6c91e989cb5c058849d7ff20" category="sidebar">Sistemi e-Series</block>
+  <block id="4fa72b310e1ed4cfa3e25e3a7968eedb" category="sidebar">Utilizza i sistemi storage e-Series per supportare i carichi di lavoro delle tue applicazioni con un rapido storage a blocchi e un'affidabilità di livello Enterprise.</block>
+  <block id="c62c395ffcd8aa3e5d38fe7155d2f510" category="sidebar">Software SANtricity</block>
+  <block id="7669263ca1cb255bffb7dbd87c93b300" category="sidebar">Utilizza il software SANtricity per eseguire il provisioning e la gestione dei sistemi storage e-Series da un'interfaccia basata su Web.</block>
+  <block id="4b77a7b9a57e83d2c4b01e16f3234143" category="sidebar">Interfaccia della riga di comando</block>
+  <block id="19a0a15a7c4d3a3bc51418cbc9a3b2ec" category="sidebar">Utilizzare la CLI per configurare e monitorare i sistemi storage e-Series da un prompt del sistema operativo.</block>
+  <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">API dei servizi Web</block>
+  <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">Utilizza l'API RESTful per creare e automatizzare i flussi di lavoro nei tuoi sistemi storage e-Series nuovi e legacy.</block>
+  <block id="28e8b3e83af233fe7085ba954fc6fd36" category="sidebar">BeeGFS su NetApp con storage e-Series</block>
+  <block id="c6ed86424e776eb55d39d911ea6a9183" category="sidebar">Utilizza BeeGFS su NetApp per creare e implementare un'infrastruttura ad alta disponibilità che combina il file system parallelo BeeGFS con i sistemi storage NetApp EF600.</block>
+</blocks>
