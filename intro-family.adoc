@@ -23,6 +23,16 @@ I sistemi storage e-Series includono i seguenti modelli di piattaforma.
 
 
 
+=== E4000
+
+Costruito ad hoc per ottimizzare le performance per i carichi di lavoro misti come analytics, videosorveglianza, high-performance computing (HPC) e backup/recovery.
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e4000-models["Scopri di più sul modello E4000"].
+
+https://www.netapp.com/pdf.html?item=/media/116571-ds-4309-hybrid-flash-arrays-e4060-e4012.pdf["Leggi la scheda informativa di E4000"^].
+
+
+
 === EF600 ed EF300
 
 Progettato appositamente per i carichi di lavoro che richiedono i massimi livelli di performance, come analisi dei big data e database.
